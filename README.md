@@ -2,7 +2,8 @@
 
 # Authentication and Authorization using JWT
 
-![JWT Authentication Banner](![rm373batch4-15](https://github.com/user-attachments/assets/349a14ec-c95b-4844-9c8a-00a96050780f))
+![rm373batch4-15](https://github.com/user-attachments/assets/a0256487-b4e6-47eb-b1b4-e07fee8b8946)
+
 
 ## 🛡️ Project Overview
 
