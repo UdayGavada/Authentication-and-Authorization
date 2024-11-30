@@ -2,7 +2,7 @@
 
 # Authentication and Authorization using JWT
 
-![JWT Authentication Banner](./images/authentication_banner.png)
+![JWT Authentication Banner](![rm373batch4-15](https://github.com/user-attachments/assets/349a14ec-c95b-4844-9c8a-00a96050780f))
 
 ## 🛡️ Project Overview
 
