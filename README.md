@@ -25,9 +25,9 @@ This project demonstrates a secure **Authentication and Authorization** system u
 
 ## 🛠️ Technologies Used
 
-- **Backend**: Spring Boot / Express.js (Node.js)
+- **Backend**: Spring Boot.
 - **Security**: JWT, BCrypt (for password hashing)
-- **Frontend**: React / Angular / Postman (for API testing)
+- **Frontend**: Postman (for API testing)
 
 ---
 
@@ -35,5 +35,5 @@ This project demonstrates a secure **Authentication and Authorization** system u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/auth-jwt-no-db.git
+   git clone https://github.com/UdayGavada/Authentication-and-Authorization.git
    cd auth-jwt-no-db
