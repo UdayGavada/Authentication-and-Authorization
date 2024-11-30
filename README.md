@@ -2,7 +2,8 @@
 
 # Authentication and Authorization using JWT
 
-![rm373batch4-15](https://github.com/user-attachments/assets/fc93d1a0-ce9f-4509-8c4f-18203f3b99db)
+![rm373batch4-15](https://github.com/user-attachments/assets/40a8979a-0072-4172-a0db-b61b7aad7457)
+
 
 
 
