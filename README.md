@@ -37,3 +37,10 @@ This project demonstrates a secure **Authentication and Authorization** system u
    ```bash
    git clone https://github.com/UdayGavada/Authentication-and-Authorization.git
    cd auth-jwt-no-db
+2. Maven Installation
+   ```bash
+   mvn install
+3. JWT AUTH_KEY
+   ```bash
+   JWT_SECRET=your_jwt_secret
+
