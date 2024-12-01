@@ -54,7 +54,8 @@ This project demonstrates a secure **Authentication and Authorization** system u
 </div>
 <table>
   <tr>
-    <td><strong>Moderator Endpoint</strong></td>
+    <td><strong>AUTH LOGIN</strong></td>
+     <td><strong>MODERATOR ACESS</strong></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/af7c2662-a339-4d86-83cc-ba66ebe2f93d" alt="AUTH LOGIN" width="600"></td>
