@@ -48,6 +48,10 @@ This project demonstrates a secure **Authentication and Authorization** system u
 ## OUTPUT
 
 
+<div align="center">
+
+   ## Moderator Endpoint
+</div>
 <table>
   <tr>
     <td><strong>Moderator Endpoint</strong></td>
