@@ -47,6 +47,21 @@ This project demonstrates a secure **Authentication and Authorization** system u
 
 ## OUTPUT
 
+<div align="center">
+
+   ## ADMIN Endpoint
+</div>
+<table>
+  <tr>
+    <td><strong>AUTH LOGIN</strong></td>
+     <td><strong>ADMIN ACESS</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/af7c2662-a339-4d86-83cc-ba66ebe2f93d" alt="AUTH LOGIN" width="600"></td>
+    <td><img src="https://github.com/user-attachments/assets/b8cc1e2b-9609-4225-9373-8a18697b1cd1" alt="MODERATOR ACESS" width="600"></td>
+  </tr>
+</table>
+
 
 <div align="center">
 
@@ -63,6 +78,20 @@ This project demonstrates a secure **Authentication and Authorization** system u
   </tr>
 </table>
 
+<div align="center">
+
+   ## User Endpoint
+</div>
+<table>
+  <tr>
+    <td><strong>AUTH LOGIN</strong></td>
+     <td><strong>USER ACESS</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/af7c2662-a339-4d86-83cc-ba66ebe2f93d" alt="AUTH LOGIN" width="600"></td>
+    <td><img src="https://github.com/user-attachments/assets/b8cc1e2b-9609-4225-9373-8a18697b1cd1" alt="MODERATOR ACESS" width="600"></td>
+  </tr>
+</table>
 ---
 
 
