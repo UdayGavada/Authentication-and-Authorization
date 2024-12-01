@@ -54,6 +54,7 @@ This project demonstrates a secure **Authentication and Authorization** system u
 <div align='left'>
    2.2 Afte successfull authorization the moderator endpoint
 </div>
+
    ![image](https://github.com/user-attachments/assets/b8cc1e2b-9609-4225-9373-8a18697b1cd1)
 
 </div>
