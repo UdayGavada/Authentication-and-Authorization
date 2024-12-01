@@ -57,11 +57,10 @@ This project demonstrates a secure **Authentication and Authorization** system u
      <td><strong>ADMIN ACESS</strong></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/af7c2662-a339-4d86-83cc-ba66ebe2f93d" alt="AUTH LOGIN" width="600"></td>
-    <td><img src="https://github.com/user-attachments/assets/b8cc1e2b-9609-4225-9373-8a18697b1cd1" alt="MODERATOR ACESS" width="600"></td>
+    <td><img src="https://github.com/user-attachments/assets/4c336a0b-9220-46d1-bcda-244ab6c1aa02" alt="AUTH LOGIN" width="600"></td>
+    <td><img src="https://github.com/user-attachments/assets/5a571aca-c9ad-4c05-a896-a46ac5c5b046" alt="MODERATOR ACESS" width="600"></td>
   </tr>
 </table>
-
 
 <div align="center">
 
