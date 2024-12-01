@@ -44,3 +44,9 @@ This project demonstrates a secure **Authentication and Authorization** system u
    ```bash
    JWT_SECRET=your_jwt_secret
 
+## OUTPUT
+<div align='center'>
+
+![image](https://github.com/user-attachments/assets/af7c2662-a339-4d86-83cc-ba66ebe2f93d)
+</div>
+
