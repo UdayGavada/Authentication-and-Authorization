@@ -53,20 +53,14 @@ This project demonstrates a secure **Authentication and Authorization** system u
 ![image]()
 <div align='left'>
    2.2 Afte successfull authorization the moderator endpoint
-</div>
-
-   ![image](https://github.com/user-attachments/assets/b8cc1e2b-9609-4225-9373-8a18697b1cd1)
-
-</div>
 
 <table>
   <tr>
     <td><strong>Moderator Endpoint</strong></td>
-    <td><strong>User Endpoint</strong></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/af7c2662-a339-4d86-83cc-ba66ebe2f93d" alt="Moderator Access" width="400"></td>
-    <td><img src="https://github.com/user-attachments/assets/b8cc1e2b-9609-4225-9373-8a18697b1cd1" alt="User Access" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/af7c2662-a339-4d86-83cc-ba66ebe2f93d" alt="Moderator Access" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/b8cc1e2b-9609-4225-9373-8a18697b1cd1" alt="User Access" width="500"></td>
   </tr>
 </table>
 
